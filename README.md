@@ -2,7 +2,7 @@
 
 Drag & Drop sticky notes App built with React JS and BunJs.
 
-![Alt text](https://sticky-fcc.vercel.app/demo.gif)
+![stickynote](./sticky-note.gif)
 
 ### Features
 
